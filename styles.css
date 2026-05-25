@@ -35,6 +35,12 @@ body {
   justify-content: space-between;
 }
 
+.about-me {
+  display: flex;
+  align-items: center;
+  gap: 40px;
+}
+
 .resume {
   margin: 50px auto;
   background: #ffffff;
